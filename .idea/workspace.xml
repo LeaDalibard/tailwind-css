@@ -30,6 +30,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/workshop-tailwind-css/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,11 +48,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610545417907</updated>
-      <workItem from="1610545419297" duration="2767000" />
+      <workItem from="1610545419297" duration="5933000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1610550296934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-53.1920.1080@0.0.1440.900" timestamp="1610550296934" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1610550296927">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-53.1920.1080@0.0.1440.900" timestamp="1610550296927" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1610550296918">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-53.1920.1080@0.0.1440.900" timestamp="1610550296918" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1610550296928">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-53.1920.1080@0.0.1440.900" timestamp="1610550296928" />
   </component>
 </project>

@@ -4,14 +4,15 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                'title': ['Architects Daughter', 'cursive'],
+                'title': ['Amatic SC', 'cursive'],
+                'titleTwo':
             },
             colors:{
-                background :'#EFE2BA',
-                ocre:'#EFE2BA',
-                red:'#F13C20',
-                dkBlue:'#4056A1',
-                lgBlue:'#C5CBE3',
+                background :'#F5E6CC',
+                yellow:'#FCCD04',
+                purple:'#A64AC9',
+                ocean:'#17E9E0',
+                coral:'#FFB48F',
             }
         },
     },
